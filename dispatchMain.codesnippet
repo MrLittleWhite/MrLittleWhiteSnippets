@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dispatchMain</string>
+	<string>dspmain</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
@@ -17,6 +17,8 @@
 	<string>9DD702DC-6B75-492F-BC6E-E013B68D13CA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>dspmain</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>dispatchMain</string>
 	<key>IDECodeSnippetUserSnippet</key>
