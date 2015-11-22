@@ -6,21 +6,21 @@
 	<string>@s/</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#class#&gt; *&lt;#name#&gt;;</string>
+	<string>@strongify(self)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>19EF5416-E6F9-4A29-8540-0903F6E60E9C</string>
+	<string>04E66BC1-FDF0-4697-91BA-FEA0DFDC8160</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>@s/</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>strongProperty</string>
+	<string>RACStrongSelf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
